@@ -9,16 +9,6 @@ permalink: /portfolio/index.html
 
 # Research
 
-<h2 id="publications">Publications</h2>
-Mission III, H. Husky, "The Impact of Mascot Presence on Athletic Performance: A Tail-Wagging Analysis," 2024. Journal of Collegiate Spirit, 15(3): 101-115. Keywords: school spirit, athletic performance, mascot influence, crowd psychology. 
-
-
-  
-<h2 id="working-papers">Working Papers</h2> 
-  
-**Job Market Paper:** Mission III, J. Trainer, "Bark vs. Bite: Comparing Auditory and Visual Mascot Techniques for Maximum Crowd Engagement." Keywords: mascot techniques, crowd psychology, auditory stimuli, visual cues, sports marketing.
-[Download File]({{ site.baseurl }}/assets/docs/MissionJMP.pdf)
-
 
 <details markdown="1"><summary> Discovering Open Source: BP 1 - “What is open source? What surprised me? Which well-known companies and projects use open source, and why does that matter?”</summary>
 Discovering Open Source
@@ -36,7 +26,8 @@ AtroCore
 GitLab
 Mattermost
 Box
-That matters because many use these such as Google on a daily basis and it is very helpful.</details>
+That matters because many use these such as Google on a daily basis and it is very helpful.
+</details>
 
 <details markdown="1"><summary> BP 2 - “What I learned about Markdown and Git, and how they help me contribute to open source and improve professionally. Have you use them before? What surprised you about Markdown or Git?”</summary>
   What I learned about Markdown and Git
