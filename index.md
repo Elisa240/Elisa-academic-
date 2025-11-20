@@ -1,7 +1,7 @@
 ---
 title: " "
 header:
-  image: /assets/images/IMG_2691.png
+  image: /assets/images/niubanner.png
 ---
 
 # Welcome​
