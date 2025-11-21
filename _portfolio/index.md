@@ -75,7 +75,9 @@ What I have found interesting
 What I have found interesting is its web-based flexibility, the customizable themes that it offers, such as making it adaptable for different audiences. Also, all the interactive features are very interesting to me. The presentations look good on/ from any device.
 #Could you imagine yourself contributing to this
 
-I personally have never been a coding person, but after learning about reveal.js it seems very direct and easy to use more so than other ones. I had so much fun editing on a practice slide show presentation for the class.</details>
+I personally have never been a coding person, but after learning about reveal.js it seems very direct and easy to use more so than other ones. I had so much fun editing on a practice slide show presentation for the class.
+
+</details>
 
 <details markdown="1">
   <summary>Blog Prompt 5: “Ownership, Access, and Innovation: What I Learned About Licensing.”</summary>
