@@ -77,7 +77,9 @@ What I have found interesting is its web-based flexibility, the customizable the
 
 I personally have never been a coding person, but after learning about reveal.js it seems very direct and easy to use more so than other ones. I had so much fun editing on a practice slide show presentation for the class.</details>
 
-<details markdown="1"><summary>Blog Prompt 5: “Ownership, Access, and Innovation: What I Learned About Licensing.”</summary>
+<details markdown="1">
+  <summary>Blog Prompt 5: “Ownership, Access, and Innovation: What I Learned About Licensing.”</summary>
+  
  Reflect on something you learned about open source licenses (e.g., MIT vs GPL, what’s allowed, what’s restricted).
 Something I learned about open source licenses is that with a MIT one can allow people to use it or even sell but credit has to be given to the author who originated from.
 
@@ -89,9 +91,7 @@ What surprised me was all the confusion between rights and tech transfer
 Innovation without profit
 How do you think licensing empowers or complicates open innovation?
 I think that licensing empowers and complicates open innovation at the same time because there comes a balance between creating ideas, keeping them safe and sharing them. You have to be careful.
-
 </details>
-
 
 <details markdown="1">
   <summary>Blog Prompt 7:
