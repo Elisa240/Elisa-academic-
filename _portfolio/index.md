@@ -42,9 +42,12 @@ I had personally never used Git nor Markdown before taking this honors seminar o
 What surprised you about Markdown or Git?
 The thing that surprised me most about Markdown and Git is that they are different in the way that they have many pros and cons.
 For example, some pros on Git are that it is fast, free and easy to use. Some pros on Markdown are that it is easy formatting and good for note taking.
+
 </details>
 
-<details markdown="1"><summary> BP03 Explore Open Source Projects</summary>
+<details markdown="1">
+  <summary> BP03 Explore Open Source Projects</summary>
+  
 “How I chose a repository to explore and what I found interesting about its structure, community, and contribution process.”
 The way that I was able to choose a repository to explore is all thanks to my peers because they offered to give me some suggestions that were similar to my major. I am majoring in Business Administration, and I wanted an open-source software related to it. I agreed on doing Libreoffice.
 
@@ -52,9 +55,13 @@ Libreoffice is a private and free open-source office suite. It is compatible wit
 
 What I find interesting about this is that they are very responsive and do updates very often. It is written in C++, XML, Python, and Java.
 
-Very user friendly</details>
+Very user friendly
+</details>
 
-<details markdown="1"><summary>Blog Prompt 4: “Reveal.js: My First Deep Dive into an Open Source Project”</summary>
+
+<details markdown="1">
+  <summary>Blog Prompt 4: “Reveal.js: My First Deep Dive into an Open Source Project”</summary>
+  
   After exploring Reveal.js, describe how it’s structured, what it’s for, and what you found interesting about the way the project is documented and maintained. Could you imagine yourself contributing to this? Why or why not?
 After exploring Reveal.js I furthermore understand that it is a powerful HTML-based presentation framework. It allows one to create amusing presentation slides, which are also a great way for interactions. Its structure is pretty straightforward and simple when following directions. It is built on web technologies such as
 
@@ -81,9 +88,13 @@ What surprised or intrigued you about NIU’s approach to IP, patents, and tech 
 What surprised me was all the confusion between rights and tech transfer
 Innovation without profit
 How do you think licensing empowers or complicates open innovation?
-I think that licensing empowers and complicates open innovation at the same time because there comes a balance between creating ideas, keeping them safe and sharing them. You have to be careful.</details>
+I think that licensing empowers and complicates open innovation at the same time because there comes a balance between creating ideas, keeping them safe and sharing them. You have to be careful.
 
-<details markdown="1"><summary>Blog Prompt 7:
+</details>
+
+
+<details markdown="1">
+  <summary>Blog Prompt 7:
 What counts as a contribution in open source?</summary>
   What counts as contributions in open source is
 
@@ -107,4 +118,6 @@ How communication and collaboration shape successful non code contributions.
 This shapes communication because feedback is given and received, and keeps contributors engaged.
 
 What non code contribution opportunities did you find?
-I evaluated Firefox DevTools.</details>
+I evaluated Firefox DevTools.
+
+</details>
