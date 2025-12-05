@@ -10,11 +10,9 @@ permalink: /contact/
 
 ### Campus Office
 Northern Illinois University  
-Out on the Field  
+Barsema Hall
 DeKalb, IL 60115-2825  
 
-###### Office Hours:  
-by appointment
 
 ### Email  
-![image of email]({{site.baseurl}}/assets/images/email.jpg)
+emalvarez222@gmail.com
