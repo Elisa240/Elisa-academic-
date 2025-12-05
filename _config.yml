@@ -4,10 +4,10 @@ title: "Elisa Alvarez"
 name: "Elisa Alvarez"
 email: "emalvarez222@gmail.com"
 url: "https://Elisa240.github.io"
-baseurl: ""
+baseurl: "IMG_2691.png"
 repository: "Elisa240/Elisa-academic-"
 header:
-  image: /assets/images/banner-husky.jpg
+  image: /assets/images/IMG_2691.png
 
 include:
   - _pages
@@ -38,7 +38,7 @@ minimal_mistakes_skin: "contrast"
 # settings for author profile
 author:
   name   : "Elisa Alvarez"
-  avatar : "/assets/images/banner-husky.jpg"
+  avatar : "/assets/images/IMG_2691.png"
   bio    : "My name is Elisa Alvarez, and I am a Business major at Northern Illinois University."
   location: "DeKalb, Illinois"
   github : 
